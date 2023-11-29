@@ -102,7 +102,17 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+STEP 1: Open Quartus II and select new project and choose the file location.
+
+STEP 2: Module Declaration. Module should have the file name.
+
+STEPS 3: Input-Output Delecaration.
+
+STEPS 4: Use assign declaration and wire to define the functionality of logic circuits.
+
+STEP 5: At the end give endmodule.
+
+STEP 6: Run the program and choose RTL viewer to get RTL realization.
 
 
 
@@ -137,26 +147,45 @@ RegisterNumber:  23012602
 
 ## Code
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/dd59b11b-44ae-4b93-8ea8-88a8f29f9574)
 
+## RTL Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/851fb377-38b9-40a2-bced-559380269057)
 
-### RTL LOGIC FOR FLIPFLOPS 
+## Timing Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/13ba767d-2b29-477a-9912-5ca4cd912a12)
 
+## JK Flip Flop
 
+## Code
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/673442cd-72d4-4b38-bd93-1a4ffef38e97)
 
+## RTL Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/579dd40f-b395-4a7c-8629-de18ea064665)
 
+## Timing Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/e3f3c595-7fd6-473d-84e6-1ecfc5eb3291)
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+## T Flip Flop
 
+## Code
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/316d52a2-aa10-419c-91e9-b5ca97604feb)
 
+## RTL Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/d770b198-9d7d-4c3c-8309-f09aadcf8873)
 
+## Timing Diagram
 
+![image](https://github.com/sruthiviswanadham/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151760421/9b87dba1-4ca7-4cf1-b5ae-382f9d1549fb)
 
 
 ### RESULTS 
+
+Implementation-of-flipflops-using-verilog successfully completed.
